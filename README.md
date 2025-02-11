@@ -1,1 +1,1 @@
-# hexlet-my-first-workflow
+# hexlet-CI-lesson
